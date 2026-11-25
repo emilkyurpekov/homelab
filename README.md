@@ -1,2 +1,2 @@
 # homelab
-Home server lab on old hardware: Ubuntu Server, Docker, Pi-hole, and documented troubleshooting.
+Self-hosted homelab built on a 4 GB RAM PC: Linux, Docker Compose, networking and monitoring.
